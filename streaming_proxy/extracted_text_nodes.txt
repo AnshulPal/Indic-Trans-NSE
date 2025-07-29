@@ -1,0 +1,2104 @@
+1. <!DOCTYPE html>
+
+2. Test
+
+3. Hello World
+
+4. This is a test.
+
+5. <!DOCTYPE html>
+
+6. NSE - National Stock Exchange of India Ltd.
+
+7. '),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e="true"=="true"?1:0,t="",n="gevrrmfyk34gw2djql7a-f-f665f06ea-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"53793","ak.ai":parseInt("509815",10),"ak.ol":"0","ak.cr":8,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1994200e","ak.r":34478,"ak.a2":e,"ak.m":"x","ak.n":"essl","ak.bpcip":"49.43.24.0","ak.cport":52334,"ak.gh":"184.86.248.95","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1751745278","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==aXH9yFrcDn7eEaJTogVao6ib2nVF4sGwA6XfWMNPcLj158ZtRykK20+4uborV2CJ3cKry2gfzv+qFZwtbaYxYIzRtXKGAhXxkVEntEFaV3zDKi4iSxk74VD8PpwAUAnkZ1cnNw8PneLEBLDp82lAgaBx2Lm6pwpkohnGl6LAkZs6YDoUB0jc34nlEgguskycYfL59bwQCL6ZzgXMYlQinmlKkP0otRwQ3KndYZOpoZuoEoojSIgnIvCH4r1R4nr0J8a6C1WLmaF0oXdlKXPmNh0sY8Qa8IHuARkXhFPYEo+SPqJLICmC1XxzjLq0gkwaBP3BwA2PG0hcPdHD3Vc1SqH0wUzU+CxzdSVYo6PdL0u029OXQchzZVEUL5rVANdWlba/CpKaLE248iPPHx6L8QBNhIWq84veTPJF0nlEp90=","ak.pv":"182","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+
+8. <!-- Google Tag Manager (noscript) -->
+
+9. <!-- End Google Tag Manager (noscript) -->
+
+10. <!--
+
+11. YOU ARE ON THE NEW NSE WEBSITE, ACCESS THE OLD WEBSITE ON THE URL
+
+12. -->
+
+13. Option Chain
+
+14. Market Turnover
+
+15. Listings
+
+16. IPO
+
+17. Circulars
+
+18. Daily Report
+
+19. Holidays
+
+20. Corporates
+
+21. Press Releases
+
+22. Contact Us
+
+23. English
+
+24. हिन्दी (Hindi)
+
+25. मराठी (Marathi)
+
+26. ગુજરાતી (Gujarati)
+
+27. বাংলা (Bengali)
+
+28. ಕನ್ನಡ (Kannada)
+
+29. தமிழ் (Tamil)
+
+30. తెలుగు (Telugu)
+
+31. ਪੰਜਾਬੀ (Punjabi)
+
+32. മലയാളം (Malayalam)
+
+33. ଓଡ଼ିଆ (Oriya)
+
+34. অসমীয়া (Assamese)
+
+35. اردو (Urdu)
+
+36. Font Size
+
+37. A+
+
+38. |
+
+39. Reset
+
+40. |
+
+41. A-
+
+42. Contrast
+
+43. High Contrast
+
+44. |
+
+45. Reset
+
+46. <!--nifty 50 indicator-->
+
+47. 25,461.00
+
+48. 55.70
+
+49. (
+
+50. 0.22
+
+51. %)
+
+52. 04-Jul-2025 15:30
+
+53. <!-- streaming setting tooltip show/hide button-->
+
+54. Streaming
+
+55. <!-- streaming setting tooltip-->
+
+56. Streaming
+
+57. on
+
+58. off
+
+59. Streaming Speed
+
+60. Slow
+
+61. Medium
+
+62. Fast
+
+63. 25,461.00
+
+64. 55.72
+
+65. (
+
+66. 0.22
+
+67. %)
+
+68. 04-Jul-2025 15:30
+
+69. Indicative close
+
+70. Futures 31-Jul-2025
+
+71. 25,512.00
+
+72. -15.00
+
+73. (
+
+74. -0.06
+
+75. %)
+
+76. 05-Jul-2025 02:48
+
+77. USDINR
+
+78. &nbsp;
+
+79. Futures
+
+80. 29-Jul-2025
+
+81. |
+
+82. 85.4750
+
+83. 04-Jul-2025 17:00
+
+84. Market Capitalization
+
+85. Lac Crs 459.16
+
+86. |
+
+87. Tn $ 5.38
+
+88. 04-Jul-2025
+
+89. Home
+
+90. About
+
+91. About NSE
+
+92. About Us
+
+93. Structure &amp; Key Personnel
+
+94. Investor Relations
+
+95. <a class="nav-link" href="/national-stock-exchange
+
+96. Awards and Recognitions
+
+97. Regulations
+
+98. Event Gallery
+
+99. Media
+
+100. Holidays
+
+101. Careers
+
+102. Contact Us
+
+103. NSE Group companies
+
+104. NSE Academy
+
+105. NSE Clearing
+
+106. NSE Data &amp; Analytics
+
+107. NSE Foundation
+
+108. NSE Indices
+
+109. NSE International Exchange
+
+110. NSE International Clearing
+
+111. NSE Investments
+
+112. View all
+
+113. Products &amp; Services
+
+114. Equity Market
+
+115. Indices
+
+116. Emerge Platform
+
+117. Mutual Funds
+
+118. Equity Derivatives
+
+119. Currency Derivatives
+
+120. Commodity Derivatives
+
+121. Interest Rate Derivatives
+
+122. Fixed Income and Debt
+
+123. Public Issues
+
+124. About Us
+
+125. Find everything about the leading stock exchange of India
+
+126. Our Group
+
+127. Check NSE&#39;s group of the companies
+
+128. Our Products
+
+129. Browse a comprehensive and innovative product and service offerings by NSE
+
+130. Market Data
+
+131. Equity
+
+132. New Listings
+
+133. Pre-Open Market
+
+134. Equity &amp; SME Market
+
+135. Indices
+
+136. Gainers/Losers
+
+137. Most Active Equities
+
+138. Price Band Hitters
+
+139. 52 Week High/Low
+
+140. Large Deals
+
+141. Advances / Declines
+
+142. Securities Lending &amp; Borrowing
+
+143. Call auction for Illiquid Securities
+
+144. Securities available for Trading
+
+145. Price Bands &amp; Surveillance Actions
+
+146. Position/Investment Limits
+
+147. Legend of series
+
+148. Daily Reports
+
+149. Historical Reports
+
+150. Derivatives
+
+151. Derivatives Market
+
+152. Option Chain
+
+153. Most Active Contracts
+
+154. Most Active Underlying
+
+155. Change in Open Interest
+
+156. Liquidity Enhancement Scheme
+
+157. Contracts available for Trading
+
+158. Daily Reports
+
+159. Historical Reports
+
+160. Debt &amp; Fixed Income
+
+161. Traded on CM
+
+162. CBRICS
+
+163. RFQ
+
+164. Negotiated Trades
+
+165. Trade Repository
+
+166. Tri-Party Repo
+
+167. Daily Reports
+
+168. Historical Reports
+
+169. Primary Markets
+
+170. IPO
+
+171. Offer For Sale
+
+172. NCB G-SEC
+
+173. Institutional Placement Program (IPP)
+
+174. Tender Offer
+
+175. Rights
+
+176. INVITS
+
+177. REITS
+
+178. Reverse Book Building
+
+179. Market Snapshot
+
+180. Live Analysis of top gainers/losers, most active securities/contracts, price band hitters, overview of the market.
+
+181. Option Chain
+
+182. View Option chain for the exchange
+
+183. Historical Reports
+
+184. View Historical Reports of securities/contracts traded on the Exchange.
+
+185. Invest
+
+186. Investor Education
+
+187. Investing in Securities Market
+
+188. Product Segment
+
+189. Charges and Taxes
+
+190. Investment limits for FIIs
+
+191. Investor Awareness
+
+192. Investor Charter
+
+193. Protection from Fraud
+
+194. Investor Awareness Programs
+
+195. Regulatory Action
+
+196. Registered Investors
+
+197. Foreign Portfolio Investors (FPI)
+
+198. Resources &amp; Tools
+
+199. Locate your Stock Broker
+
+200. Company Directory
+
+201. Exit Option for shareholders
+
+202. Feedback
+
+203. Investor&#39;s Home
+
+204. Investor education on how to invest safely and protect your investments.
+
+205. Product Information
+
+206. Browse NSE products under Cash, derivatives, currency derivatives etc.
+
+207. LOGIN TO SMARTODR
+
+208. Online Dispute Resolution Mechanism for filing complaints
+
+209. List
+
+210. Raising Capital
+
+211. On-boarding Process
+
+212. Primary Market - Main Board
+
+213. Primary Market - SME
+
+214. Debt - Private Placement
+
+215. Social Stock Exchange
+
+216. Mutual Fund/ETFs/AIFs
+
+217. Further Issues
+
+218. Public Issue Advertisements
+
+219. Corporate Filings
+
+220. Announcements
+
+221. Board Meetings
+
+222. Corporate Actions
+
+223. Financial Results
+
+224. Shareholding Pattern
+
+225. Shareholding Pattern SDD
+
+226. Issuer Offer documents/Issue Summary Document
+
+227. Integrated Filing
+
+228. Scheme of Arrangement
+
+229. Resources for Listed Companies
+
+230. SEBI Regulations
+
+231. Compliance Information
+
+232. XBRL Information
+
+233. XBRL To Excel Converter
+
+234. Company Directory
+
+235. Circulars to Listed Companies
+
+236. NEAPS Portal<
+
+237. NEAPS Portal
+
+238. Corporates Home
+
+239. Important information, reference material and latest announcements for corporates
+
+240. Company Compliance Information
+
+241. Status of compliance&#39;s under various Regulatory requirements
+
+242. Cogencis iInvest
+
+243. Tool for informed investment decisions
+
+244. Trade
+
+245. Become a Member
+
+246. Process &amp; FAQs
+
+247. Eligibility Criteria &amp; Categories
+
+248. Fees, Deposits &amp; Networth
+
+249. Using ENIT
+
+250. Resources for Members
+
+251. Change In Membership
+
+252. Member Compliance
+
+253. Disciplinary Action
+
+254. Format
+
+255. Platforms &amp; Services
+
+256. NSE Trading Technology
+
+257. NEAT &amp; Non-NEAT Front end
+
+258. Test Market Facility
+
+259. Connectivity &amp; User Id
+
+260. Member&#39;s Home
+
+261. Important Information, reference materials and latest announcements for members.
+
+262. Member Portal
+
+263. ENIT - A Portal for Trading Members of NSE to manage their Membership and Compliance requirements.
+
+264. Exchange Communication
+
+265. Browse Exchange circulars, press release and media articles.
+
+266. Regulation
+
+267. Exchange
+
+268. Market Rules &amp; Regulations
+
+269. Market Surveillance
+
+270. Exchange Disclosures
+
+271. Defaulting Clients
+
+272. Investor&#39;s Beware
+
+273. Submit a Tip-Off
+
+274. Member
+
+275. Member Compliance
+
+276. Complaint against Members
+
+277. Action against Members
+
+278. Debarred Entities
+
+279. Circulars for Members
+
+280. Public Notice
+
+281. Corporates
+
+282. Company Compliance
+
+283. Rumour Verification
+
+284. Delisting of Companies
+
+285. Queries raised to Listed Companies
+
+286. List of Non-Compliant Companies
+
+287. Public Notice
+
+288. Learn
+
+289. Getting Started
+
+290. About NSE Academy
+
+291. Get started for NCFM
+
+292. NCFM Certification Modules
+
+293. How to take a Test
+
+294. Visit To NSE
+
+295. Courses/Programs
+
+296. Online Interactive Courses
+
+297. Online / Self-Paced Courses
+
+298. Class Room Courses
+
+299. Enterprise Training
+
+300. International Certificate Program
+
+301. Student Requirement
+
+302. Modules for Under graduates
+
+303. Post Graduate Programs
+
+304. Modules for Professionals
+
+305. Certification Modules
+
+306. Program Calendar
+
+307. Find a course
+
+308. Click here to find a course
+
+309. NSE Knowledge Hub
+
+310. Click here to join the platform
+
+311. NCFM Login
+
+312. NCFM Portal for online testing and certification programmes offered by NSE Academy.
+
+313. Resources
+
+314. <div class="dropdown-menu"
+
+315. <div class="dropdown-menu" aria-label
+
+316. Exchange Communication
+
+317. Circulars
+
+318. Press Releases
+
+319. Holidays
+
+320. Contingency Drill
+
+321. Media Center
+
+322. Downloads
+
+323. Daily Market Reports
+
+324. Historical Reports
+
+325. Forms &amp; Formats
+
+326. Business Growth &amp; Volume
+
+327. FAQs
+
+328. Historical Reports
+
+329. Security-wise Price Volume Archives
+
+330. Contract-wise Price Volume Archives
+
+331. Historical Spot Rate
+
+332. Historical Index Data
+
+333. Historical Data - India Vix
+
+334. Exchange Communication
+
+335. Find all communication issued by the Exchange in this section
+
+336. Downloads
+
+337. Daily and Archive Reports, Formats and Business Growth download it here
+
+338. Market Data Products
+
+339. NSE&#39;s market data products such real time, delayed, snapshot, historical data etc.
+
+340. Complaints
+
+341. Introduction
+
+342. Brief Overview
+
+343. Process
+
+344. Online Dispute Resolution
+
+345. Arbitration Panel
+
+346. Members Committee (formerly Member and Core Settlement Guarantee Fund Committee)
+
+347. Complaint filing
+
+348. How to Lodge a complaint online and Track your complaint
+
+349. Filing Arbitration/Appellate
+
+350. Defaulter Committee Claim
+
+351. Details to be provided for lodging claims
+
+352. Anonymous Portal - Suspicious activity
+
+353. Information
+
+354. Defaulter/Expelled Members
+
+355. Arbitration/Appellate Hearing
+
+356. Arbitration/Appellate Awards
+
+357. Investor Protection Trust Fund
+
+358. Public Notice
+
+359. LOGIN TO SMARTODR
+
+360. Online Dispute Resolution Mechanism for filing complaints
+
+361. Reports
+
+362. Periodic reports pertaining to complaints/arbitration
+
+363. Investor Services Centre
+
+364. Contact details of all Investor Services Centre
+
+365. RESEARCH
+
+366. Publications
+
+367. Market Pulse
+
+368. Macro &amp; Market Insights
+
+369. Corporate Governance
+
+370. Factbook &amp; ISMR
+
+371. Initiatives
+
+372. NSE RI
+
+373. Ongoing
+
+374. Working Paper Series
+
+375. Past Initiatives
+
+376. Engagements
+
+377. Upcoming Programs
+
+378. Seminars &amp; Panel Discussions
+
+379. Conferences
+
+380. Lecture Series
+
+381. Overview
+
+382. Macro and financial market research, thought-provoking discussions, policy advocacy and more..
+
+383. Initiatives
+
+384. Plans and actions to promote and advance research in financial markets
+
+385. Engagements
+
+386. Bringing together academia, industry and other stakeholders
+
+387. <!-- Condition for Mobile Design -->
+
+388. 25,461.00
+
+389. <span id="header-txt-color" class="header-txt-color per green
+
+390. 55.70
+
+391. (
+
+392. 0.22
+
+393. %)
+
+394. 04-Jul-2025 15:30
+
+395. <!-- streaming setting tooltip show/hide button-->
+
+396. Streaming
+
+397. <!-- streaming setting tooltip-->
+
+398. Streaming
+
+399. on
+
+400. off
+
+401. Streaming Speed
+
+402. Slow
+
+403. Medium
+
+404. Fast
+
+405. Futures 31-Jul-2025
+
+406. 25,512.00
+
+407. -15.00
+
+408. (
+
+409. -0.06
+
+410. %)
+
+411. 05-Jul-2025 02:48
+
+412. USDINR
+
+413. &nbsp;
+
+414. Futures
+
+415. 29-Jul-2025
+
+416. |
+
+417. 85.4750
+
+418. 04-Jul-2025 17:00
+
+419. Market Capitalization
+
+420. Lac Crs 459.16
+
+421. |
+
+422. Tn $ 5.38
+
+423. 04-Jul-2025
+
+424. Menu
+
+425. <div class="collapse navbar-
+
+426. Home
+
+427. About
+
+428. About NSE
+
+429. About Us
+
+430. Structure &amp; Key Personnel
+
+431. Investor Relations
+
+432. Awards and Recognitions
+
+433. Regulations
+
+434. Event Gallery
+
+435. Media
+
+436. Holidays
+
+437. Careers
+
+438. Contact Us
+
+439. NSE Group companies
+
+440. NSE Academy
+
+441. NSE Clearing
+
+442. NSE Data &amp; Analytics
+
+443. NSE Foundation
+
+444. NSE Indices
+
+445. NSE International Exchange
+
+446. NSE International Clearing
+
+447. NSE Investments
+
+448. View all
+
+449. Products &amp; Services
+
+450. Equity Market
+
+451. Indices
+
+452. Emerge Platform
+
+453. Mutual Funds
+
+454. Equity Derivatives
+
+455. Currency Derivatives
+
+456. Commodity Derivatives
+
+457. Interest Rate Derivatives
+
+458. Fixed Income and Debt
+
+459. Public Issues
+
+460. About Us
+
+461. Find everything about the leading stock exchange of India
+
+462. Our Group
+
+463. Check NSE&#39;s group of the companies
+
+464. Our Products
+
+465. Browse a comprehensive and innovative product and service offerings by NSE
+
+466. Market Data
+
+467. Equity
+
+468. New Listings
+
+469. Pre-Open Market
+
+470. Equity &amp; SME Market
+
+471. Indices
+
+472. Gainers/Losers
+
+473. Most Active Equities
+
+474. Price Band Hitters
+
+475. 52 Week High/Low
+
+476. Large Deals
+
+477. Advances / Declines
+
+478. Securities Lending &amp; Borrowing
+
+479. Call auction for Illiquid Securities
+
+480. Securities available for Trading
+
+481. Price Bands &amp; Surveillance Actions
+
+482. Position/Investment Limits
+
+483. Legend of series
+
+484. Daily Reports
+
+485. Historical Reports
+
+486. Derivatives
+
+487. Derivatives Market
+
+488. Option Chain
+
+489. Most Active Contracts
+
+490. Most Active Underlying
+
+491. Change in Open Interest
+
+492. Liquidity Enhancement Scheme
+
+493. Contracts available for Trading
+
+494. Daily Reports
+
+495. Historical Reports
+
+496. Debt &amp; Fixed Income
+
+497. Traded on CM
+
+498. CBRICS
+
+499. RFQ
+
+500. Negotiated Trades
+
+501. Trade Repository
+
+502. Tri-Party Repo
+
+503. Daily Reports
+
+504. Historical Reports
+
+505. Primary Markets
+
+506. IPO
+
+507. Offer For Sale
+
+508. NCB G-SEC
+
+509. Institutional Placement Program (IPP)
+
+510. Tender Offer
+
+511. Rights
+
+512. INVITS
+
+513. REITS
+
+514. Reverse Book Building
+
+515. Market Snapshot
+
+516. Live Analysis of top gainers/losers, most active securities/contracts, price band hitters, overview of the market.
+
+517. Option Chain
+
+518. View Option chain for the exchange
+
+519. <div class="col-md-4 menuFootNot
+
+520. <div class="col-md-4 menuFootNote" title="
+
+521. Historical Reports
+
+522. View Historical Reports of securities/contracts traded on the Exchange.
+
+523. Invest
+
+524. Investor Education
+
+525. Investing in Securities Market
+
+526. Product Segment
+
+527. Charges and Taxes
+
+528. Investment limits for FIIs
+
+529. Investor Awareness
+
+530. Investor Charter
+
+531. Protection from Fraud
+
+532. Investor Awareness Programs
+
+533. Regulatory Action
+
+534. Registered Investors
+
+535. Foreign Portfolio Investors (FPI)
+
+536. Resources &amp; Tools
+
+537. Locate your Stock Broker
+
+538. Company Directory
+
+539. Exit Option for shareholders
+
+540. Feedback
+
+541. Investor&#39;s Home
+
+542. Investor education on how to invest safely and protect your investments.
+
+543. Product Information
+
+544. Browse NSE products under Cash, derivatives, currency derivatives etc.
+
+545. LOGIN TO SMARTODR
+
+546. Online Dispute Resolution Mechanism for filing complaints
+
+547. List
+
+548. Raising Capital
+
+549. On-boarding Process
+
+550. Primary Market - Main Board
+
+551. Primary Market - SME
+
+552. Debt - Private Placement
+
+553. Social Stock Exchange
+
+554. Mutual Fund/ETFs/AIFs
+
+555. Further Issues
+
+556. Public Issue Advertisements
+
+557. Corporate Filings
+
+558. Announcements
+
+559. Board Meetings
+
+560. Corporate Actions
+
+561. Financial Results
+
+562. Shareholding Pattern
+
+563. Shareholding Pattern SDD
+
+564. Issuer Offer documents/Issue Summary Document
+
+565. Integrated Filing
+
+566. Scheme of Arrangement
+
+567. Resources for Listed Companies
+
+568. SEBI Regulations
+
+569. Compliance Information
+
+570. XBRL Information
+
+571. XBRL To Excel Converter
+
+572. Company Directory
+
+573. Circulars to Listed Companies
+
+574. NEAPS Portal
+
+575. Corporates Home
+
+576. Important information, reference material and latest announcements for corporates
+
+577. Company Compliance Information
+
+578. Status of compliance&#39;s under various Regulatory requirements
+
+579. Cogencis iInvest
+
+580. Tool for informed investment decisions
+
+581. Trade
+
+582. Become a Member
+
+583. Process &amp; FAQs
+
+584. Eligibility Criteria &amp; Categories
+
+585. Fees, Deposits &amp; Networth
+
+586. Using ENIT
+
+587. Resources for Members
+
+588. Change In Membership
+
+589. Member Compliance
+
+590. Disciplinary Action
+
+591. Format
+
+592. Platforms &amp; Services
+
+593. NSE Trading Technology
+
+594. NEAT &amp; Non-NEAT Front end
+
+595. Test Market Facility
+
+596. <li class="na
+
+597. <a
+
+598. Connectivity &amp; User Id
+
+599. Member&#39;s Home
+
+600. Important Information, reference materials and latest announcements for members.
+
+601. Member Portal
+
+602. ENIT - A Portal for Trading Members of NSE to manage their Membership and Compliance requirements.
+
+603. Exchange Communication
+
+604. Browse Exchange circulars, press release and media articles.
+
+605. Regulation
+
+606. Exchange
+
+607. Market Rules &amp; Regulations
+
+608. Market Surveillance
+
+609. Exchange Disclosures
+
+610. Defaulting Clients
+
+611. Investor&#39;s Beware
+
+612. Submit a Tip-Off
+
+613. Member
+
+614. Member Compliance
+
+615. Complaint against Members
+
+616. Action against Members
+
+617. Debarred Entities
+
+618. Circulars for Members
+
+619. Public Notice
+
+620. Corporates
+
+621. Company Compliance
+
+622. Rumour Verification
+
+623. Delisting of Companies
+
+624. Queries raised to Listed Companies
+
+625. List of Non-Compliant Companies
+
+626. Public Notice
+
+627. Learn
+
+628. Getting Started
+
+629. About NSE Academy
+
+630. Get started for NCFM
+
+631. NCFM Certification Modules
+
+632. How to take a Test
+
+633. Visit To NSE
+
+634. Courses/Programs
+
+635. Online Interactive Courses
+
+636. Online / Self-Paced Courses
+
+637. Class Room Courses
+
+638. Enterprise Training
+
+639. International Certificate Program
+
+640. Student Requirement
+
+641. Modules for Under graduates
+
+642. Post Graduate Programs
+
+643. Modules for Professionals
+
+644. Certification Modules
+
+645. Program Calendar
+
+646. Find a course
+
+647. Click here to find a course
+
+648. NSE Knowledge Hub
+
+649. Click here to join the platform
+
+650. NCFM Login
+
+651. NCFM Portal for online testing and certification programmes offered by NSE Academy.
+
+652. Resources
+
+653. Exchange Communication
+
+654. Circulars
+
+655. Press Releases
+
+656. Holidays
+
+657. Contingency Drill
+
+658. Media Center
+
+659. Downloads
+
+660. Daily Market Reports
+
+661. Historical Reports
+
+662. Forms &amp; Formats
+
+663. Business Growth &amp; Volume
+
+664. FAQs
+
+665. Historical Reports
+
+666. Security-wise Price Volume Archives
+
+667. Contract-wise Price Volume Archives
+
+668. Historical Spot Rate
+
+669. Historical Index Data
+
+670. Historical Data - India Vix
+
+671. Exchange Communication
+
+672. Find all communication issued by the Exchange in this section
+
+673. Downloads
+
+674. Daily and Archive Reports, Formats and Business Growth download it here
+
+675. Market Data Products
+
+676. NSE&#39;s market data products such real time, delayed, snapshot, historical data etc.
+
+677. Complaints
+
+678. Introduction
+
+679. Brief Overview
+
+680. Process
+
+681. Online Dispute Resolution
+
+682. Arbitration Panel
+
+683. Members Committee (formerly Member and Core Settlement Guarantee Fund Committee)
+
+684. Complaint filing
+
+685. How to Lodge a complaint online and Track your complaint
+
+686. Filing Arbitration/Appellate
+
+687. Defaulter Committee Claim
+
+688. Details to be provided for lodging claims
+
+689. Anonymous Portal - Suspicious activity
+
+690. Information
+
+691. Defaulter/Expelled Members
+
+692. Arbitration/Appellate Hearing
+
+693. Arbitration/Appellate Awards
+
+694. Investor Protection Trust Fund
+
+695. Public Notice
+
+696. LOGIN TO SMARTODR
+
+697. Online Dispute Resolution Mechanism for filing complaints
+
+698. Reports
+
+699. Periodic reports pertaining to complaints/arbitration
+
+700. Investor Services Centre
+
+701. Contact details of all Investor Services Centre
+
+702. RESEARCH
+
+703. Publications
+
+704. <a class="nav-link" href="/research/publications-reports-n
+
+705. Market Pulse
+
+706. Macro &amp; Market Insights
+
+707. Corporate Governance
+
+708. Factbook &amp; ISMR
+
+709. Initiatives
+
+710. NSE RI
+
+711. Ongoing
+
+712. Working Paper Series
+
+713. Past Initiatives
+
+714. Engagements
+
+715. Upcoming Programs
+
+716. Seminars &amp; Panel Discussions
+
+717. Conferences
+
+718. Lecture Series
+
+719. Overview
+
+720. Macro and financial market research, thought-provoking discussions, policy advocacy and more..
+
+721. Initiatives
+
+722. Plans and actions to promote and advance research in financial markets
+
+723. Engagements
+
+724. Bringing together academia, industry and other stakeholders
+
+725. <!-- Accessibility Start -->
+
+726. Font size
+
+727. A+
+
+728. |
+
+729. Reset
+
+730. |
+
+731. A-
+
+732. Contrast
+
+733. High Contrast
+
+734. |
+
+735. Reset
+
+736. Login to
+
+737. <!--
+
+738. Exchange
+
+739. -->
+
+740. Mutual Fund
+
+741. NCFM
+
+742. You will be redirected to
+
+743. another link to complete the login
+
+744. Market Turnover
+
+745. Value Convention
+
+746. <!--
+
+747. Lakhs
+
+748. -->
+
+749. Crores
+
+750. Billions
+
+751. PRODUCTS
+
+752. Today
+
+753. <!--
+
+754. Updated on
+
+755. -->
+
+756. Previous Trade Day
+
+757. <!--yesterday cols-->
+
+758. VOLUME
+
+759. (Shares/Contracts)
+
+760. VALUE*
+
+761. (₹ Crores)
+
+762. OPEN INTEREST
+
+763. (
+
+764. Contracts
+
+765. )
+
+766. No. of Orders#
+
+767. No. of Trades
+
+768. Average Trade Value(₹)
+
+769. Updated AT
+
+770. <!--today cols-->
+
+771. VOLUME
+
+772. (
+
+773. Shares/Contracts
+
+774. )
+
+775. VALUE*
+
+776. (₹ Crores)
+
+777. OPEN INTEREST
+
+778. (
+
+779. Contracts
+
+780. )
+
+781. Note
+
+782. <!--
+
+783. Derivative to cash ratio =
+
+784. -->
+
+785. *In case of Option Contracts “Value” displayed is “Premium Turnover”
+
+786. Turnover of Currency Futures and Currency options include turnover of both Non Cross Currency pairs and
+                        Cross Currency pairs
+
+787. Currency Turnover is calculated by using latest available Reference rate-FBIL
+
+788. Turnover of Mutual Fund is based on the orders received on the platform as per the details given below:
+
+789. For Transaction type “Purchase / SIP” and Category type “Liquid” cut off time is 13:00 and for Category Type “Non-Liquid” cut off time is 14:30
+
+790. For Transaction type ”Redemption & SWITCH” cut off time is 15:00
+
+791. Instrument type in Equity includes fully paid equity shares/ETFs, units of REITs/INVITs and partly paid equity shares
+
+792. <!--
+
+793. In case of Mutual Fund, "No. of Trades" represent Orders / Bids
+
+794. -->
+
+795. Average Trade Value = Total Traded Value / Total Number of Trades
+
+796. #“No. of Orders” represents all order messages received i.e.: Orders confirmed, modified, cancelled and rejected
+
+797. <!-- Accessibility End -->
+
+798. Home
+
+799. About NSE
+
+800. About Us
+
+801. About Us
+
+802. About Us
+
+803. Introduction
+
+804. Purpose, Vision &amp; Values
+
+805. History &amp; Milestones
+
+806. Awards &amp; Recognition
+
+807. Our Products
+
+808. Regulations
+
+809. Facts &amp; Figures (Records)
+
+810. Structure &amp; key personnel
+
+811. Corporate Structure
+
+812. Board of Directors
+
+813. Committees under Regulation
+
+814. Mandatory Committees
+
+815. Product Advisory Committees
+
+816. Management
+
+817. List of KMPs
+
+818. Investor Information
+
+819. Announcements
+
+820. Annual Reports
+
+821. Board Meetings
+
+822. Corporate Actions
+
+823. Corporate Governance
+
+824. Financials
+
+825. Policy &amp; Disclosures
+
+826. Shareholder&#39;s Meetings
+
+827. Shareholding
+
+828. Company Secretary
+
+829. Event Gallery
+
+830. Event Gallery
+
+831. Knowledge Builder Series
+
+832. Listing/Opening Bell Events
+
+833. Careers
+
+834. Overview
+
+835. Life@NSE
+
+836. Diversity &amp; Equal Opportunity
+
+837. Jobs@NSE
+
+838. Contact Us
+
+839. Investor Services Centre
+
+840. Corporate &amp; Branch Office
+
+841. Department wise Contacts
+
+842. Regional Offices
+
+843. Write to US
+
+844. Introduction
+
+845. NSE (National Stock Exchange) is an institution of national importance with international stature. We are a trusted market infrastructure institution with high standards of corporate governance.
+
+846. A homegrown brand with a global vision, NSE is counted as one of the world’s largest exchanges and a catalyst for driving India’s economic growth. NSE was the first exchange in India to implement electronic or screen-based trading which began its operations in 1994; a pioneer in technology which ensures the reliability and performance of its systems through a culture of innovation and investment in technology. NSE operates a market ecosystem to bring in transparency &amp; efficiency.
+
+847. Our robust state-of-the-art technology platform offers high levels of robustness, safety and resilience for trading and investment opportunities across all asset classes and for all categories of investors. NSE is focused on investor protection and disciplined development of the Indian capital market landscape.
+
+848. Updated on: 16/03/2025
+
+849. <!--
+
+850. -->
+            <!--
+
+851. -->
+            <!--
+
+852. -->
+
+853. About NSE
+
+854. About Us
+
+855. Structure &amp; Key Personnel
+
+856. Investor Relations
+
+857. Awards and Recognitions
+
+858. Regulations
+
+859. Event Gallery
+
+860. Media
+
+861. Holidays
+
+862. Careers
+
+863. Contact Us
+
+864. NSE Group Companies
+
+865. NSE Academy
+
+866. NSE Clearing
+
+867. NSE Data &amp; Analytics
+
+868. NSE Foundation
+
+869. NSE Indices
+
+870. NSE International Exchange
+
+871. NSE International Clearing
+
+872. NSE Investments
+
+873. View all
+
+874. Products &amp; Services
+
+875. Equity Market
+
+876. Indices
+
+877. Emerge Platform
+
+878. Mutual Funds
+
+879. Equity Derivatives
+
+880. Currency Derivatives
+
+881. Commodity Derivatives
+
+882. Interest Rate Derivatives
+
+883. Fixed Income and Debt
+
+884. Public Issues
+
+885. Disclaimer
+
+886. Privacy Policy
+
+887. Terms of Use
+
+888. Copyright
+
+889. Feedback
+
+890. Site Map
+
+891. Website Policies
+
+892. Empanelment of Internal
+
+893. Auditors of Members
+
+894. List of Empaneled Audit Firms
+
+895. <!--
+
+896. NSE MOBILE
+
+897. -->
+                            <!--
+
+898. NSE NMFII
+
+899. NSE  GO-BID
+
+900. -->
+
+901. <!--
+
+902. Follow us on
+
+903. -->
+
+904. Download NSE App
+
+905. Scan QR to
+
+906. Download App
+
+907. NSE NMFII
+
+908. NSE GO-BID
+
+909. Login to
+
+910. Mutual Fund
+
+911. NCFM
+
+912. <!--
+
+913. Copyright
+
+914. &copy
+
+915. 2025
+
+916. National Stock Exchange of India Ltd. All rights reserved. Best viewed in Chrome and 1366 X 768 resolution. Recommended to use latest browser versions.
+
+917. -->
+
+918. <!-- Alert Message Band --->
+
+<!-- Alert Message Band En
+
+919. <!-- Alert Message Band --->
+
+<!-- Alert Message Band End --->
+
+920. Quick Links
+
+921. <!--
+
+922. QUICK LINKS
+
+923. FOR INVESTORS
+
+924. FOR CORPORATES
+
+925. FOR MEMBERS
+
+926. -->
+
+927. Copyright © 2025
+
+928. National Stock Exchange of India Ltd. All rights reserved. Best viewed in Chrome and
+                            1366 X 768 resolution. Recommended to use latest browser versions.
+
+929. <!-- quick links modal investors -->
+
+930. Quick Links for Investors
+
+931. Dashboard for end of day re
+                        ports download, quick market snapshot and important announcements.
+
+932. Equity Market Report
+
+933. Derivatives Market Report
+
+934. Debt Market Report
+
+935. <div class="row align-items-center mt-3 mb-4"
+
+936. Select All Reports
+
+937. Multiple file Download
+
+938. Customize Reports for Download
+
+939. Select All Reports
+
+940. Multiple file Download
+
+941. Customize Reports for Download
+
+942. Select All Reports
+
+943. Multiple file Download
+
+944. Customize Reports for Download
+
+945. Market Snapshot
+
+946. As on
+
+947. IST
+
+948. View Details
+
+949. NIFTY50
+
+950. -
+
+951. High
+
+952. -
+
+953. Open
+
+954. -
+
+955. High
+
+956. -
+
+957. Low
+
+958. -
+
+959. Close
+
+960. -
+
+961. Volume
+
+962. (Lakhs)
+
+963. Value
+
+964. (Lakhs)
+
+965. FFM .Cap
+
+966. (Lakhs)
+
+967. -
+
+968. -
+
+969. -
+
+970. -
+
+971. <!-- end quick links modal investors -->
+<!-- quick link for corporates -->
+
+972. Quick Links for Corporates
+
+973. Dashboard for tracking corporate filings
+
+974. Latest Corporate Filings
+
+975. All Companies
+
+976. Use this section to track the latest corporate filings by 5 companies of your choice
+
+977. Showing
+
+978. 0
+
+979. of 5 selected Companies
+
+980. <a id="launch_btn" href="#" class
+
+981. Launch
+
+982. Latest Circulars
+
+983. Equity
+
+984. DEBT
+
+985. View All
+
+986. View All
+
+987. Go to Corporates Dashboard
+
+988. <!-- end quick link for corporates -->
+<!-- quick links modal members -->
+
+989. Quick Links for Members
+
+990. Latest Circulars
+
+991. Trading
+
+992. Clearing
+
+993. Listing
+
+994. Compliance
+
+995. Others
+
+996. Select All
+
+997. Download
+
+998. View All Circulars
+
+999. Subscribe to RSS Feed
+
+1000. Select All
+
+1001. Download
+
+1002. View All Circulars
+
+1003. Subscribe to RSS Feed
+
+1004. Select All
+
+1005. Download
+
+1006. View All Circulars
+
+1007. Subscribe to RSS Feed
+
+1008. Select All
+
+1009. Download
+
+1010. View All Circulars
+
+1011. Subscribe to RSS Feed
+
+1012. Select All
+
+1013. Download
+
+1014. View All Circulars
+
+1015. Subscribe to RSS Feed
+
+1016. Select All
+
+1017. Download
+
+1018. View All Circulars
+
+1019. Subscribe to RSS Feed
+
+1020. Members Message Area
+
+1021. <!--
+
+1022. Exchange has published Member Help Guide and new FAQs for Access to Markets. Visit the link: https://www.nseindia.com/trade/all-member-faqs
+
+1023. -->
+
+1024. Contact for Support
+
+1025. - Trade Support Toll Free no :
+
+1026. 1800 266 0050
+
+1027. (Select IVR option 1)
+
+1028. Charged no :
+
+1029. 022 68645400
+
+1030. /
+
+1031. 022 50998100
+
+1032. (Select IVR option 1)
+
+1033. Timings : 8:00 AM to 2:00 AM on subsequent day (Monday to Friday)
+
+1034. - Member Compliance Support Toll Free no :
+
+1035. 1800 266 0050
+
+1036. (Select IVR option 3)
+
+1037. Charged no :
+
+1038. 022 68645400
+
+1039. /
+
+1040. 022 50998100
+
+1041. (Select IVR option 3)
+
+1042. Timings : 9:30 AM to 5:45 PM (Monday to Friday)
+
+1043. <!-- end quick links modal members -->
+<!-- select indices modal-->
+
+<!-- end select indices modal-->
+
+1044. <!--
+
+1045. -->

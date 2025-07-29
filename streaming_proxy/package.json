@@ -1,0 +1,26 @@
+{
+  "name": "streaming-proxy",
+  "version": "1.0.0",
+  "description": "Streaming HTML translation proxy for NSE",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dom-serializer": "^2.0.0",
+    "dotenv": "^16.3.1",
+    "entities": "^6.0.1",
+    "express": "^4.21.2",
+    "htmlparser2": "^10.0.0",
+    "http-proxy-middleware": "^2.0.9",
+    "jsdom": "^26.1.0",
+    "linkedom": "^0.18.11",
+    "node-fetch": "^3.3.2",
+    "parse5": "^7.3.0",
+    "parse5-html-rewriting-stream": "^7.1.0",
+    "redis": "^5.5.6",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
